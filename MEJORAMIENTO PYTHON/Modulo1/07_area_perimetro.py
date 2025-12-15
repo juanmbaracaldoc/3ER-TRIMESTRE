@@ -1,0 +1,1 @@
+b=float(input("Base: ")); h=float(input("Altura: ")); print(b*h,2*(b+h))

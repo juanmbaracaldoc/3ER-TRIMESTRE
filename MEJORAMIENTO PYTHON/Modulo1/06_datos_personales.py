@@ -1,0 +1,1 @@
+n=input("Nombre: "); e=int(input("Edad: ")); c=input("Ciudad: "); print(f"{n} {e} {c}")

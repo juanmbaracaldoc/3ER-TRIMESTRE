@@ -1,0 +1,1 @@
+est={"nombre":"Juan","edad":20,"nota":4.5}; print(est)

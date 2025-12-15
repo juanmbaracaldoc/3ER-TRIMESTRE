@@ -1,0 +1,1 @@
+with open("archivo.txt") as f: print(len(f.readlines()))

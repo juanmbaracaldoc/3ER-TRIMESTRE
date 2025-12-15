@@ -1,0 +1,1 @@
+e=int(input()); print("Mayor" if e>=18 else "Menor")

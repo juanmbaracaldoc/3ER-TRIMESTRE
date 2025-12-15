@@ -1,0 +1,1 @@
+nums=[3,8,1,10,5]; print(max(nums))
